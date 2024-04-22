@@ -22,7 +22,7 @@ Dependencies:
   ## Installation
 
 ```
-   git clone https://github.com/batukapicioglu/UDP-SENDER.git
+   git clone https://github.com/batukapicioglu/Python-UDP-Sender.git
    sudo apt-get update
    sudo apt-get install python3
    pip install tqdm
